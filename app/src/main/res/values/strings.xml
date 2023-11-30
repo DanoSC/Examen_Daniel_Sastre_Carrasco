@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Examen_Daniel_Sastre_Carrasco</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ejercicio1">Ejercicio1</string>
+    <string name="ejercicio2">Ejercicio2</string>
+    <string name="ejercicio3">Ejercicio3</string>
+    <string name="ejercicio4">Ejercicio4</string>
+    <string name="Resumen_Ejer1">1ºEmpezamos a correr de forma controlada &#10;
+                                 2º Mantenemos ritmo durante 5 min &#10;
+                                 3º A partir de aqui vamos combinando 1min correr(a tope) 1 caminar </string>
+    <string name="ejer2_descripcion">Realizar lanzamientos de manera controlada</string>
+    <string name="ejercicio3_descripcion">holahoalholaohla</string>
+    <string name="ejercicio4_descripcion">adios aidoa adiofnaa´dkmfa</string>
+</resources>

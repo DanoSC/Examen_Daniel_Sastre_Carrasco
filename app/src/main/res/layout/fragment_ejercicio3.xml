@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Ejercicio3">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/ejercicio3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ejercicio3"
+            android:textSize="30sp"
+            />
+
+        <TextView
+            android:id="@+id/ejercicio2descripciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ejercicio3_descripcion"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/imageViewIcono"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_marginTop="8dp"
+            android:src="@drawable/jabalina"
+            android:contentDescription="Icono" />
+    </LinearLayout>
+</FrameLayout>
